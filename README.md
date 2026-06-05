@@ -1,5 +1,5 @@
 # ✈️ Flight Ticket Price Prediction using Machine Learning
-## 📌 Project Overview
+## 📌 Project Overview.
 
 ### This project predicts flight ticket prices using Machine Learning Regression algorithms. The system analyzes various flight details such as airline, source, destination, duration, and total stops to estimate ticket prices accurately.
 
