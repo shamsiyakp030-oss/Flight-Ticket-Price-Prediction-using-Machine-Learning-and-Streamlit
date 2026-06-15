@@ -23,7 +23,7 @@
 ### Journey Month
 ### Price (Target Variable)
 
-## 🔍 Exploratory Data Analysis (EDA)
+##  Exploratory Data Analysis (EDA)
 
 ## The following visualizations were used:
 
@@ -39,25 +39,25 @@
 ### Ticket prices vary across airlines.
 ### Seasonal and date-related factors influence prices.
 
-## 🤖 Machine Learning Models Used
+##  Machine Learning Models Used
 ### 1- Linear Regression
 ### 2- Decision Tree Regressor
 ### 3- Random Forest Regressor
 ### 4-Gradient Boosting Regressor
 ### 5-K-Nearest Neighbors (KNN) Regressor
 
-## 📈 Model Performance
+##  Model Performance
 ### Model	R² Score
 ### Linear Regression	0.44
 ### Decision Tree Regressor	0.81
 ### Random Forest Regressor	0.86
 ### Gradient Boosting Regressor	0.84
 ### KNN Regressor	0.57
-### 🏆 Best Model
+###  Best Model
 
 ### Random Forest Regressor achieved the highest prediction accuracy and was selected as the final model.
 
-## ⚙️ Pipeline Integration
+##  Pipeline Integration
 
 ### A complete machine learning pipeline was created to automate:
 
@@ -70,7 +70,7 @@
 
 ### "flight_price_pipeline.pkl"
 
-## 🚀 Streamlit Deployment
+##  Streamlit Deployment
 
 ### The trained model was deployed using Streamlit.
 
@@ -96,7 +96,7 @@
 ### Journey Month
 ### Output
 ### Predicted Ticket Price: ₹XXXX
-## 🛠️ Technologies Used
+##  Technologies Used
 ### Python
 ### Pandas
 ### NumPy
@@ -107,7 +107,7 @@
 ### Streamlit
 ### Jupyter Notebook
 
-## 📂 Project Structure
+##  Project Structure
 ### Flight-Ticket-Price-Prediction/
 │
 ├── Flight_Ticket_Price_Prediction.ipynb
@@ -116,7 +116,7 @@
 ├── dataset.csv
 ├── requirements.txt
 └── README.md
-## ▶️ How to Run
+##  How to Run
 ### Install Required Libraries
 ### pip install -r requirements.txt
 
