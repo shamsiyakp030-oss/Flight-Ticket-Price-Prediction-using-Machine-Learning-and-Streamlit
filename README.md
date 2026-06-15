@@ -1,11 +1,11 @@
-# ✈️ Flight Ticket Price Prediction using Machine Learning
-## 📌 Project Overview.
+#  Flight Ticket Price Prediction using Machine Learning
+##  Project Overview.
 
 ### This project predicts flight ticket prices using Machine Learning Regression algorithms. The system analyzes various flight details such as airline, source, destination, duration, and total stops to estimate ticket prices accurately.
 
 ### The project follows the complete Machine Learning lifecycle, including data preprocessing, exploratory data analysis (EDA), model training, evaluation, pipeline creation, and deployment using Streamlit.
 
-## 🎯 Objectives
+##  Objectives
 ### * Analyze factors affecting flight ticket prices.
 ### * Perform data cleaning and preprocessing.
 ### * Build and compare multiple regression models.
@@ -13,7 +13,7 @@
 ### * Create an automated machine learning pipeline.
 ### * Deploy the model using Streamlit for real-time predictions.
 
-## 📊 Dataset Features
+##  Dataset Features
 ### Airline
 ### Source
 ### Destination
@@ -123,6 +123,9 @@
 ### streamlit run app.py
 ## Open Browser
 ### (http://localhost:8507)
+## Streamlit cloud community:
+
+https://shareappio-eswxdfwa7xggrcmjbgznrd.streamlit.app/
 
 ## 📌 Conclusion
 
