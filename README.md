@@ -119,15 +119,21 @@
 ## ▶️ How to Run
 ### Install Required Libraries
 ### pip install -r requirements.txt
+
+## flight price .pkl 
+https://drive.google.com/file/d/1wdLZFF45NnZECIhllLBoQ-WbPMT6glcr/view?usp=drive_link
 ### Run Streamlit App
+
 ### streamlit run app.py
+
 ## Open Browser
 ### (http://localhost:8507)
+
 ## Streamlit cloud community:
 
 https://shareappio-eswxdfwa7xggrcmjbgznrd.streamlit.app/
 
-## 📌 Conclusion
+##  Conclusion
 
 ### This project successfully developed a Flight Ticket Price Prediction system using Machine Learning. Five regression algorithms were evaluated, and Random Forest Regressor achieved the highest accuracy. The final model was integrated into an automated pipeline and deployed using Streamlit, enabling users to obtain real-time flight ticket price predictions through an interactive web application. This project demonstrates practical machine learning implementation from data preprocessing to deployment in a real-world environment.
 
